@@ -1,4 +1,4 @@
-##Tuesday, February 06, 2024
+# Tuesday, February 06, 2024
 
 ![A notebook with writing on it Description automatically
 generated](./myMediaFolder/media/image1.jpeg){width="6.361111111111111in"
