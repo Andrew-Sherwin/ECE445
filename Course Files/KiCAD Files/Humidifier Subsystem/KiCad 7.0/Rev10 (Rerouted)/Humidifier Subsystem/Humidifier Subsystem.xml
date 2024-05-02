@@ -1,0 +1,2506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/zhaoyangxie/Desktop/Spring 2024/ECE445/KiCAD Files/Humidifier Subsystem/KiCad 7.0/Humidifier Subsystem/Humidifier Subsystem.kicad_sch</source>
+    <date>Tuesday, March 19, 2024 at 04:27:06 PM</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Humidifier Subsystem.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5b0d045-4897-4caa-9260-29170309d6b5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c052b19-e02b-4842-b4d8-cbab9cd28c39</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46dafac0-0442-483c-be9e-9fc3f806c887</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f21b8975-e631-48b7-9dc4-309403a0f6b1</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f896c60-d1a4-492b-bd6f-c847aa65136a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c454100d-1403-4b54-a1a5-2ec63dd15628</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5372b14-d012-4e3b-9ff7-2a4e70039968</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c033884c-5f2c-4d1b-b826-2e903b6e3c3e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>258abeaf-5fbc-40f8-af1c-1021f72e8dcc</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e542b867-417d-4a6d-94f4-7c802e80d521</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c3b798f-d4be-4ff4-b1d6-cba2102757b7</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f76b168-ec7a-4126-9182-521462ff35e0</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bdc4af2-6263-4310-b64d-b39bd6af448e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>ECE445:LESD5D5_0CT1G</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda</field>
+        <field name="Description">
+Transient Voltage Suppressors for ESD Protection
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;Transient Voltage Suppressors for ESD Protection&#xA;"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32a60b8f-6009-45a4-94c6-31661442bd0b</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>ECE445:LESD5D5_0CT1G</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda</field>
+        <field name="Description">
+Transient Voltage Suppressors for ESD Protection
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;Transient Voltage Suppressors for ESD Protection&#xA;"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd5ad88d-fd2f-4218-a27f-bfa4fc2085ac</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>ECE445:LESD5D5_0CT1G</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda</field>
+        <field name="Description">
+Transient Voltage Suppressors for ESD Protection
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;Transient Voltage Suppressors for ESD Protection&#xA;"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b707ecd-dfb0-49db-9338-3682ab02a2f6</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>ECE445:LESD5D5_0CT1G</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda</field>
+        <field name="Description">
+Transient Voltage Suppressors for ESD Protection
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;Transient Voltage Suppressors for ESD Protection&#xA;"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03052db1-479f-437a-abf9-9410c4012678</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N5819HW-7-F</value>
+      <footprint>ECE445:1N5819HW-7-F</footprint>
+      <fields>
+        <field name="MANUFACTURER">Diodes Inc.</field>
+        <field name="PARTREV">18-2</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="ECE445" part="1N5819HW-7-F" description=""/>
+      <property name="PARTREV" value="18-2"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MANUFACTURER" value="Diodes Inc."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2db3b062-4a97-4569-b2b3-ecf5466efe69</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N5819HW-7-F</value>
+      <footprint>ECE445:1N5819HW-7-F</footprint>
+      <fields>
+        <field name="MANUFACTURER">Diodes Inc.</field>
+        <field name="PARTREV">18-2</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="ECE445" part="1N5819HW-7-F" description=""/>
+      <property name="PARTREV" value="18-2"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MANUFACTURER" value="Diodes Inc."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fae8a7f-d48a-4e82-8226-24a19b23a56c</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>ECE445:LESD5D5_0CT1G</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda</field>
+        <field name="Description">
+Transient Voltage Suppressors for ESD Protection
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;Transient Voltage Suppressors for ESD Protection&#xA;"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>769abb30-0c62-4935-86fa-19c20991108b</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>ECE445:LESD5D5_0CT1G</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda</field>
+        <field name="Description">
+Transient Voltage Suppressors for ESD Protection
+</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="PARTREV">O</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description" value="&#xA;Transient Voltage Suppressors for ESD Protection&#xA;"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dae70e9a-f9bc-41d8-85ba-40123c8d806b</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148W-13-F</value>
+      <footprint>ECE445:1N4148W-13-F</footprint>
+      <fields>
+        <field name="MANUFACTURER">Diodes</field>
+        <field name="PARTREV">28-2</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="ECE445" part="1N4148W-13-F" description=""/>
+      <property name="PARTREV" value="28-2"/>
+      <property name="MANUFACTURER" value="Diodes"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>454296c3-6a31-4de1-b766-4343f0f4dfb4</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fee4c61-c07a-4c55-b109-ca0b965e091b</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>1N4148W-13-F</value>
+      <footprint>ECE445:1N4148W-13-F</footprint>
+      <fields>
+        <field name="MANUFACTURER">Diodes</field>
+        <field name="PARTREV">28-2</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="ECE445" part="1N4148W-13-F" description=""/>
+      <property name="PARTREV" value="28-2"/>
+      <property name="MANUFACTURER" value="Diodes"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>096aaacb-ab34-49f0-963d-3583ca3e4fb2</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28d36815-8971-4962-9950-abf4acd7f6e5</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78dcf37f-e53b-4848-9fbf-0d8aadbd770d</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8d22dc5-a22a-492b-9bf1-1f62ca43baa5</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f6eaba0-38d9-4e74-baa6-4702843c73fa</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04b0a9cb-5818-47e7-8080-ccddcf9da6ae</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PJ-202AH</value>
+      <footprint>ECE445:PJ-202AH</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI INC</field>
+        <field name="PART_REV">1.02</field>
+        <field name="STANDARD">Manufacturer recommendations</field>
+      </fields>
+      <libsource lib="ECE445" part="PJ-202AH" description=""/>
+      <property name="STANDARD" value="Manufacturer recommendations"/>
+      <property name="PART_REV" value="1.02"/>
+      <property name="MANUFACTURER" value="CUI INC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce4f175a-58f8-4de1-bd3f-0946ea8c8aa0</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>10118193-0001LF</value>
+      <footprint>ECE445:10118193-0001LF</footprint>
+      <fields>
+        <field name="MANUFACTURER">Amphenol FCI</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.55 mm</field>
+        <field name="PARTREV">E</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ECE445" part="10118193-0001LF" description=""/>
+      <property name="PARTREV" value="E"/>
+      <property name="MANUFACTURER" value="Amphenol FCI"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.55 mm"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cca16cb-904f-447e-8c63-f801acd034fe</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>10118193-0001LF</value>
+      <footprint>ECE445:10118193-0001LF</footprint>
+      <fields>
+        <field name="MANUFACTURER">Amphenol FCI</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.55 mm</field>
+        <field name="PARTREV">E</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ECE445" part="10118193-0001LF" description=""/>
+      <property name="PARTREV" value="E"/>
+      <property name="MANUFACTURER" value="Amphenol FCI"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.55 mm"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b9a2818-6fc5-4b5b-b950-8fbcb902f24a</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Water Level Sensor</value>
+      <footprint>ECE445:1935174</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11d9d4c1-d09e-4364-a055-69f4c228750f</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Water Level Sensor</value>
+      <footprint>ECE445:1935174</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08f5dcc8-364a-4021-8d0e-504a81e904df</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>1935174</value>
+      <footprint>ECE445:1935174</footprint>
+      <fields>
+        <field name="MANUFACTURER">PHOENIX</field>
+      </fields>
+      <libsource lib="ECE445" part="1935174" description=""/>
+      <property name="MANUFACTURER" value="PHOENIX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a06063c0-7bea-41d2-9179-f92ad75651c9</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>1935174</value>
+      <footprint>ECE445:1935174</footprint>
+      <fields>
+        <field name="MANUFACTURER">PHOENIX</field>
+      </fields>
+      <libsource lib="ECE445" part="1935174" description=""/>
+      <property name="MANUFACTURER" value="PHOENIX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94c110b2-70ca-4ab6-aae1-032154203436</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>GND Test Probe</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83fd44a8-28b6-4c68-b67e-9436b00d2720</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b971f64e-22ac-4c30-8e8c-9bd877966062</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a990215-d545-4e35-b6af-c22ec4ff5315</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e0869ad-c01b-480e-a1f6-e1fa2a078f27</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd513a5d-3a8a-4835-9096-bb829af30e0c</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9f2c942-8753-434a-a6d7-42b14654837f</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4bf2869-2d31-482e-beb9-2f173060d0d0</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c62138aa-f312-4603-a3c1-05c47f25a29a</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5012e1b-8b96-428a-8d69-48710c2cb446</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cea6db43-5ca1-42f8-a34e-b35d3716a0ec</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b66d8cf8-db6c-400e-acea-0506512a690a</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4382ca79-4b73-4df1-9268-6ad6682fc8f5</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48c34e4f-2c1e-46f0-957b-1b14ff3d059e</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90a5fdda-e559-4277-b8b9-9e2eefe488e8</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c521a535-efd3-497f-aecf-14a8f8612be7</tstamps>
+    </comp>
+    <comp ref="J24">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea137b29-04fe-403c-bdfe-96afd2469b6f</tstamps>
+    </comp>
+    <comp ref="J25">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f2b53cd-5ce3-4ff2-9532-126edf8a6965</tstamps>
+    </comp>
+    <comp ref="J26">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcd8f5d8-6841-431d-953c-6e6640f6508b</tstamps>
+    </comp>
+    <comp ref="J27">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fa6e967-acab-4c8d-ae40-f2a5b3bf0497</tstamps>
+    </comp>
+    <comp ref="J28">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9adfa6e4-cbfe-44b5-a049-ea7eb06fc117</tstamps>
+    </comp>
+    <comp ref="J29">
+      <value>Conn_01x01</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c31bb93-cf35-4ad5-afa6-fc107d50cabd</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>G5LE-14 DC3</value>
+      <footprint>ECE445:G5LE-1 DC3</footprint>
+      <datasheet>G5LE-14 DC3</datasheet>
+      <libsource lib="ECE445" part="G5LE-14_DC3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_keywords" value="G5LE-14 DC12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6453d1bc-e165-4d92-af70-36ba01b701c9</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>G5LE-14 DC3</value>
+      <footprint>ECE445:G5LE-1 DC3</footprint>
+      <datasheet>G5LE-14 DC3</datasheet>
+      <libsource lib="ECE445" part="G5LE-14_DC3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_keywords" value="G5LE-14 DC12"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08b61a54-bcb4-4b96-a275-c2c32453979e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a536052b-1d05-4382-ac5f-4a77c4ae0a29</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3221766-c56f-4d92-9d46-feb5651c0823</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e4c7d1b-c6cc-4d78-bdcf-dfb7900c5acc</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49043c74-3f87-4a28-838a-523fcd5f3085</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>22100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b922cba9-a7e2-4235-a92a-20af92ea2bfb</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>47500</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8065fb50-c5c7-4231-a1cc-4f240db1b707</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59d23a28-e6a5-417c-bf1c-5e7e7e657bc5</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>073272a1-a923-4092-b04f-703b6788c3ae</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1143a22c-5764-4a43-bf02-e8f72172d63e</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68b3edbe-43e6-4958-ace6-40b17f33f678</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f43e322f-4d4a-409b-b3ec-c84a276fea4c</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f908b9ff-beb6-49cc-87f6-755c2e81d2ef</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4306875-77b3-496f-91cc-79aa9dd121ae</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>226ef7b7-efd5-41d4-9340-bdb635fec9a8</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8042ba1-476b-4b33-8234-e1bf4a018418</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05ad148e-2839-4272-933b-ffdd3481893a</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>200</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d25bd55a-4a79-4892-be99-a03eae6e6ef9</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>200</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17180519-32e2-4219-b892-98859d4d2dc7</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0594da7c-f119-4aca-a356-21ba711e823e</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04691642-d6f3-4b21-8611-7e3e82463501</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab4a6572-6bc8-41d7-b58c-105d9f11bcc4</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>1000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0e8ac2c-ae7e-4f84-bfd1-4bef0deca2eb</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>005bfc6c-79e8-4a65-b313-00b1fda5aa64</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>1000</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9245b8c9-596c-4f95-9251-90b8c4789068</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>PTS815_SJG_250_SMTR_LFS</value>
+      <footprint>ECE445:PTS815 SJG 250 SMTR LFS</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=eda</field>
+        <field name="DESCRIPTION">Tactile Switches Tact Switch, 12 VDC, 50 mA, 4.2x3.2, 2.5mm H, 400gf, J leads</field>
+        <field name="Description">
+Switch;Tactile;4.2 x 3.2;2.5MM;400gf;J Leads | C&amp;K PTS815 SJG 250 SMTR LFS
+</field>
+        <field name="HEIGHT">2.7mm</field>
+        <field name="MANUFACTURER_NAME">C &amp; K COMPONENTS</field>
+        <field name="MANUFACTURER_PART_NUMBER">PTS815 SJG 250 SMTR LFS</field>
+        <field name="MF">C&amp;K</field>
+        <field name="MOUSER_PART_NUMBER">611-PTS815SJG250SMTR</field>
+        <field name="MOUSER_PRICE-STOCK">https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJG-250-SMTR-LFS?qs=ahcBuItHZ3yjoEmU1Oppnw%3D%3D</field>
+        <field name="MP">PTS815 SJG 250 SMTR LFS</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="PTS815_SJG_250_SMTR_LFS" description=""/>
+      <property name="MANUFACTURER_NAME" value="C &amp; K COMPONENTS"/>
+      <property name="MF" value="C&amp;K"/>
+      <property name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJG-250-SMTR-LFS?qs=ahcBuItHZ3yjoEmU1Oppnw%3D%3D"/>
+      <property name="DESCRIPTION" value="Tactile Switches Tact Switch, 12 VDC, 50 mA, 4.2x3.2, 2.5mm H, 400gf, J leads"/>
+      <property name="MOUSER_PART_NUMBER" value="611-PTS815SJG250SMTR"/>
+      <property name="Price" value="None"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=eda"/>
+      <property name="HEIGHT" value="2.7mm"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=snap"/>
+      <property name="MP" value="PTS815 SJG 250 SMTR LFS"/>
+      <property name="Description" value="&#xA;Switch;Tactile;4.2 x 3.2;2.5MM;400gf;J Leads | C&amp;K PTS815 SJG 250 SMTR LFS&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="PTS815 SJG 250 SMTR LFS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e8225b8-ae2f-462b-aa19-ff5520ad738a</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>PTS815_SJG_250_SMTR_LFS</value>
+      <footprint>ECE445:PTS815 SJG 250 SMTR LFS</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=eda</field>
+        <field name="DESCRIPTION">Tactile Switches Tact Switch, 12 VDC, 50 mA, 4.2x3.2, 2.5mm H, 400gf, J leads</field>
+        <field name="Description">
+Switch;Tactile;4.2 x 3.2;2.5MM;400gf;J Leads | C&amp;K PTS815 SJG 250 SMTR LFS
+</field>
+        <field name="HEIGHT">2.7mm</field>
+        <field name="MANUFACTURER_NAME">C &amp; K COMPONENTS</field>
+        <field name="MANUFACTURER_PART_NUMBER">PTS815 SJG 250 SMTR LFS</field>
+        <field name="MF">C&amp;K</field>
+        <field name="MOUSER_PART_NUMBER">611-PTS815SJG250SMTR</field>
+        <field name="MOUSER_PRICE-STOCK">https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJG-250-SMTR-LFS?qs=ahcBuItHZ3yjoEmU1Oppnw%3D%3D</field>
+        <field name="MP">PTS815 SJG 250 SMTR LFS</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="PTS815_SJG_250_SMTR_LFS" description=""/>
+      <property name="MANUFACTURER_NAME" value="C &amp; K COMPONENTS"/>
+      <property name="MF" value="C&amp;K"/>
+      <property name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJG-250-SMTR-LFS?qs=ahcBuItHZ3yjoEmU1Oppnw%3D%3D"/>
+      <property name="DESCRIPTION" value="Tactile Switches Tact Switch, 12 VDC, 50 mA, 4.2x3.2, 2.5mm H, 400gf, J leads"/>
+      <property name="MOUSER_PART_NUMBER" value="611-PTS815SJG250SMTR"/>
+      <property name="Price" value="None"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=eda"/>
+      <property name="HEIGHT" value="2.7mm"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=snap"/>
+      <property name="MP" value="PTS815 SJG 250 SMTR LFS"/>
+      <property name="Description" value="&#xA;Switch;Tactile;4.2 x 3.2;2.5MM;400gf;J Leads | C&amp;K PTS815 SJG 250 SMTR LFS&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="PTS815 SJG 250 SMTR LFS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f1e06c9-0ed4-4457-8b75-cab46d744c6d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-S3-WROOM-1-N8</value>
+      <footprint>ECE445:ESP32-S3-WROOM-1-N8-SnapEDA</footprint>
+      <fields>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="DESCRIPTION">Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount</field>
+        <field name="Description">
+WiFi 802.11a/b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz Antenna Not Included -
+</field>
+        <field name="DigiKey_Part_Number">1965-ESP32-S3-WROOM-1-N8TR-ND</field>
+        <field name="MF">Espressif Systems</field>
+        <field name="MP">ESP32-S3-WROOM-1-N8</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+        <field name="PURCHASE-URL">https://pricing.snapeda.com/search/part/ESP32-S3-WROOM-1-N8R8/?ref=eda</field>
+        <field name="Package">NON STANDARD Espressif Systems</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=11020927&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-S3-WROOM-1-N8&amp;search_term=None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N8/Espressif+Systems/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="ESP32-S3-WROOM-1-N8" description=""/>
+      <property name="DigiKey_Part_Number" value="1965-ESP32-S3-WROOM-1-N8TR-ND"/>
+      <property name="MF" value="Espressif Systems"/>
+      <property name="DESCRIPTION" value="Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="PRICE" value="None"/>
+      <property name="Package" value="NON STANDARD Espressif Systems"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N8/Espressif+Systems/view-part/?ref=snap"/>
+      <property name="MP" value="ESP32-S3-WROOM-1-N8"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=11020927&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-S3-WROOM-1-N8&amp;search_term=None"/>
+      <property name="Description" value="&#xA;WiFi 802.11a/b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz Antenna Not Included -&#xA;"/>
+      <property name="AVAILABILITY" value="In Stock"/>
+      <property name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/ESP32-S3-WROOM-1-N8R8/?ref=eda"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c85b1cc-61d2-40cf-b05f-fef1b5e9d6eb</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LDL1117S33R-SnapEDA</value>
+      <footprint>ECE445:LDL1117S33R-SnapEDA</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="Description">
+Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223
+</field>
+        <field name="DigiKey_Part_Number">497-17239-2-ND</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.8 mm</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MP">LDL1117S33R</field>
+        <field name="PARTREV">7</field>
+        <field name="Package">SOT-223 STMicroelectronics</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=865632&amp;manufacturer=STMicroelectronics&amp;part_name=LDL1117S33R&amp;search_term=ldl1117s33r</field>
+        <field name="SNAPEDA_PN">LDL1117S33R</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LDL1117S33R-SnapEDA" description=""/>
+      <property name="DigiKey_Part_Number" value="497-17239-2-ND"/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.8 mm"/>
+      <property name="Package" value="SOT-223 STMicroelectronics"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="7"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=snap"/>
+      <property name="MP" value="LDL1117S33R"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=865632&amp;manufacturer=STMicroelectronics&amp;part_name=LDL1117S33R&amp;search_term=ldl1117s33r"/>
+      <property name="Description" value="&#xA;Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223&#xA;"/>
+      <property name="SNAPEDA_PN" value="LDL1117S33R"/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c94bd691-3f38-4c24-918f-5e3e7648f045</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LDL1117S50R</value>
+      <footprint>ECE445:LDL1117S50R</footprint>
+      <fields>
+        <field name="Manufacturer">STMicroelectronics</field>
+        <field name="Package">SOT230P700X180-4N</field>
+      </fields>
+      <libsource lib="ECE445" part="LDL1117S50R" description=""/>
+      <property name="Manufacturer" value="STMicroelectronics"/>
+      <property name="Package" value="SOT230P700X180-4N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>798400ac-be7a-4405-98c2-4d568751dedb</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>CP2102N-A02-GQFN28</value>
+      <footprint>ECE445:CP2102N-A02-GQFN28</footprint>
+      <fields>
+        <field name="MANUFACTURER">Silicon Labs</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8 mm</field>
+        <field name="PARTREV">1.5</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="ECE445" part="CP2102N-A02-GQFN28" description=""/>
+      <property name="PARTREV" value="1.5"/>
+      <property name="MANUFACTURER" value="Silicon Labs"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.8 mm"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adb28cb8-3721-4f96-8b27-1187004f22f9</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>L8050QLT1G</value>
+      <footprint>ECE445:SOT-23_ONS</footprint>
+      <datasheet>KSC3265YMTF</datasheet>
+      <libsource lib="ECE445" part="L8050QLT1G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_keywords" value="KSC3265YMTF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c5f75d3-23eb-4d99-869c-a22d66dc4dda</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>L8050QLT1G</value>
+      <footprint>ECE445:SOT-23_ONS</footprint>
+      <datasheet>KSC3265YMTF</datasheet>
+      <libsource lib="ECE445" part="L8050QLT1G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_keywords" value="KSC3265YMTF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f695b69-7929-4558-ac4c-53cf3e6c6f8a</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>MMBT2222LT1G</value>
+      <footprint>ECE445:MMBT2222LT1G</footprint>
+      <datasheet>MMBT2222LT1G</datasheet>
+      <libsource lib="ECE445" part="MMBT2222LT1G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_keywords" value="MMBT2222LT1G"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20dfae1f-a47d-4d9c-a2ee-8b2e98136f50</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>VOM617AT</value>
+      <footprint>ECE445:VOM617AT</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda</field>
+        <field name="Description">
+VOM617AT DC Input Phototransistor Output Optocoupler, Surface Mount, 4-Pin SOP | Siliconix / Vishay VOM617AT
+</field>
+        <field name="MANUFACTURER">VISHAY</field>
+        <field name="MF">Vishay Semiconductor</field>
+        <field name="MP">VOM617AT</field>
+        <field name="Package">SOP-4 Vishay Semiconductor</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=289684&amp;manufacturer=Vishay Semiconductor&amp;part_name=VOM617AT&amp;search_term=sop 4 pin</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="VOM617AT" description=""/>
+      <property name="MF" value="Vishay Semiconductor"/>
+      <property name="Description" value="&#xA;VOM617AT DC Input Phototransistor Output Optocoupler, Surface Mount, 4-Pin SOP | Siliconix / Vishay VOM617AT&#xA;"/>
+      <property name="Package" value="SOP-4 Vishay Semiconductor"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"/>
+      <property name="MP" value="VOM617AT"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=289684&amp;manufacturer=Vishay Semiconductor&amp;part_name=VOM617AT&amp;search_term=sop 4 pin"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="VISHAY"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e71680e-dbf3-4f48-96ba-2c1ed1275fb3</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>VOM617AT</value>
+      <footprint>ECE445:VOM617AT</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda</field>
+        <field name="Description">
+VOM617AT DC Input Phototransistor Output Optocoupler, Surface Mount, 4-Pin SOP | Siliconix / Vishay VOM617AT
+</field>
+        <field name="MANUFACTURER">VISHAY</field>
+        <field name="MF">Vishay Semiconductor</field>
+        <field name="MP">VOM617AT</field>
+        <field name="Package">SOP-4 Vishay Semiconductor</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=289684&amp;manufacturer=Vishay Semiconductor&amp;part_name=VOM617AT&amp;search_term=sop 4 pin</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="VOM617AT" description=""/>
+      <property name="MF" value="Vishay Semiconductor"/>
+      <property name="Description" value="&#xA;VOM617AT DC Input Phototransistor Output Optocoupler, Surface Mount, 4-Pin SOP | Siliconix / Vishay VOM617AT&#xA;"/>
+      <property name="Package" value="SOP-4 Vishay Semiconductor"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"/>
+      <property name="MP" value="VOM617AT"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=289684&amp;manufacturer=Vishay Semiconductor&amp;part_name=VOM617AT&amp;search_term=sop 4 pin"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="VISHAY"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c9dcc1e-cb0b-4ff1-8b77-1f05d7b6409e</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>MMBT2222LT1G</value>
+      <footprint>ECE445:MMBT2222LT1G</footprint>
+      <datasheet>MMBT2222LT1G</datasheet>
+      <libsource lib="ECE445" part="MMBT2222LT1G" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <property name="ki_keywords" value="MMBT2222LT1G"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c02f16a4-d522-4a0a-adf8-975a4e96fbe4</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>LDL1117S33R-SnapEDA</value>
+      <footprint>ECE445:LDL1117S33R-SnapEDA</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="Description">
+Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223
+</field>
+        <field name="DigiKey_Part_Number">497-17239-2-ND</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.8 mm</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MP">LDL1117S33R</field>
+        <field name="PARTREV">7</field>
+        <field name="Package">SOT-223 STMicroelectronics</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=865632&amp;manufacturer=STMicroelectronics&amp;part_name=LDL1117S33R&amp;search_term=ldl1117s33r</field>
+        <field name="SNAPEDA_PN">LDL1117S33R</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LDL1117S33R-SnapEDA" description=""/>
+      <property name="DigiKey_Part_Number" value="497-17239-2-ND"/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.8 mm"/>
+      <property name="Package" value="SOT-223 STMicroelectronics"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="7"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=snap"/>
+      <property name="MP" value="LDL1117S33R"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=865632&amp;manufacturer=STMicroelectronics&amp;part_name=LDL1117S33R&amp;search_term=ldl1117s33r"/>
+      <property name="Description" value="&#xA;Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223&#xA;"/>
+      <property name="SNAPEDA_PN" value="LDL1117S33R"/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>083cf502-bb85-4a4e-afc8-c7ea80916e62</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>LDL1117S33R-SnapEDA</value>
+      <footprint>ECE445:LDL1117S33R-SnapEDA</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="Description">
+Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223
+</field>
+        <field name="DigiKey_Part_Number">497-17239-2-ND</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.8 mm</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MP">LDL1117S33R</field>
+        <field name="PARTREV">7</field>
+        <field name="Package">SOT-223 STMicroelectronics</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=865632&amp;manufacturer=STMicroelectronics&amp;part_name=LDL1117S33R&amp;search_term=ldl1117s33r</field>
+        <field name="SNAPEDA_PN">LDL1117S33R</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ECE445" part="LDL1117S33R-SnapEDA" description=""/>
+      <property name="DigiKey_Part_Number" value="497-17239-2-ND"/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.8 mm"/>
+      <property name="Package" value="SOT-223 STMicroelectronics"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="7"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=snap"/>
+      <property name="MP" value="LDL1117S33R"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=865632&amp;manufacturer=STMicroelectronics&amp;part_name=LDL1117S33R&amp;search_term=ldl1117s33r"/>
+      <property name="Description" value="&#xA;Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223&#xA;"/>
+      <property name="SNAPEDA_PN" value="LDL1117S33R"/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Humidifier Subsystem.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc0c3b62-8c33-4212-bcec-0fa6b8afdf24</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="10118193-0001LF">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">10118193-0001LF</field>
+        <field name="Footprint">10118193-0001LF:AMPHENOL_10118193-0001LF</field>
+        <field name="PARTREV">E</field>
+        <field name="MANUFACTURER">Amphenol FCI</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.55 mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VUSB" type="passive"/>
+        <pin num="2" name="D-" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD__1" type="passive"/>
+        <pin num="S3" name="SHIELD__2" type="passive"/>
+        <pin num="S4" name="SHIELD__3" type="passive"/>
+        <pin num="S5" name="SHIELD__4" type="passive"/>
+        <pin num="S6" name="SHIELD__5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="1935174">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1935174</field>
+        <field name="Footprint">1935174:PHOENIX_1935174</field>
+        <field name="MANUFACTURER">PHOENIX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="1N4148W-13-F">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148W-13-F</field>
+        <field name="Footprint">1N4148W-13-F:SOD3715X135N</field>
+        <field name="PARTREV">28-2</field>
+        <field name="MANUFACTURER">Diodes</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="1N5819HW-7-F">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5819HW-7-F</field>
+        <field name="Footprint">1N5819HW-7-F:SOD3715X145N</field>
+        <field name="PARTREV">18-2</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="MANUFACTURER">Diodes Inc.</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="CP2102N-A02-GQFN28">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CP2102N-A02-GQFN28</field>
+        <field name="Footprint">CP2102N-A02-GQFN28:QFN50P500X500X80-29N</field>
+        <field name="PARTREV">1.5</field>
+        <field name="MANUFACTURER">Silicon Labs</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8 mm</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DCD" type="input"/>
+        <pin num="2" name="RI/CLK" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="D-" type="bidirectional"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="VREGIN" type="input"/>
+        <pin num="8" name="VBUS" type="input"/>
+        <pin num="9" name="~{RST}" type="input"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="~{SUSPEND}" type="output"/>
+        <pin num="12" name="SUSPEND" type="output"/>
+        <pin num="13" name="CHREN" type="output"/>
+        <pin num="14" name="CHR1" type="output"/>
+        <pin num="15" name="CHR0" type="output"/>
+        <pin num="16" name="GPIO.3/WAKEUP" type="bidirectional"/>
+        <pin num="17" name="GPIO.2/RS485" type="bidirectional"/>
+        <pin num="18" name="GPIO.1/RXT" type="bidirectional"/>
+        <pin num="19" name="GPIO.0/TXT" type="bidirectional"/>
+        <pin num="20" name="GPIO.6" type="bidirectional"/>
+        <pin num="21" name="GPIO.5" type="bidirectional"/>
+        <pin num="22" name="GPIO.4" type="bidirectional"/>
+        <pin num="23" name="CTS" type="input"/>
+        <pin num="24" name="RTS" type="output"/>
+        <pin num="25" name="RXD" type="input"/>
+        <pin num="26" name="TXD" type="output"/>
+        <pin num="27" name="DSR" type="input"/>
+        <pin num="28" name="DTR" type="output"/>
+        <pin num="29" name="GND__1" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="ESP32-S3-WROOM-1-N8">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-S3-WROOM-1-N8</field>
+        <field name="Footprint">ESP32-S3-WROOM-1-N8:XCVR_ESP32-S3-WROOM-1-N8</field>
+        <field name="DigiKey_Part_Number">1965-ESP32-S3-WROOM-1-N8TR-ND</field>
+        <field name="MF">Espressif Systems</field>
+        <field name="DESCRIPTION">Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+        <field name="Package">NON STANDARD Espressif Systems</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-S3-WROOM-1-N8/Espressif+Systems/view-part/?ref=snap</field>
+        <field name="MP">ESP32-S3-WROOM-1-N8</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=11020927&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-S3-WROOM-1-N8&amp;search_term=None</field>
+        <field name="Description">
+WiFi 802.11a/b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz Antenna Not Included -
+</field>
+        <field name="AVAILABILITY">In Stock</field>
+        <field name="PURCHASE-URL">https://pricing.snapeda.com/search/part/ESP32-S3-WROOM-1-N8R8/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="IO4" type="bidirectional"/>
+        <pin num="5" name="IO5" type="bidirectional"/>
+        <pin num="6" name="IO6" type="bidirectional"/>
+        <pin num="7" name="IO7" type="bidirectional"/>
+        <pin num="8" name="IO15" type="bidirectional"/>
+        <pin num="9" name="IO16" type="bidirectional"/>
+        <pin num="10" name="IO17" type="bidirectional"/>
+        <pin num="11" name="IO18" type="bidirectional"/>
+        <pin num="12" name="IO8" type="bidirectional"/>
+        <pin num="13" name="IO19" type="bidirectional"/>
+        <pin num="14" name="IO20" type="bidirectional"/>
+        <pin num="15" name="IO3" type="bidirectional"/>
+        <pin num="16" name="IO46" type="bidirectional"/>
+        <pin num="17" name="IO9" type="bidirectional"/>
+        <pin num="18" name="IO10" type="bidirectional"/>
+        <pin num="19" name="IO11" type="bidirectional"/>
+        <pin num="20" name="IO12" type="bidirectional"/>
+        <pin num="21" name="IO13" type="bidirectional"/>
+        <pin num="22" name="IO14" type="bidirectional"/>
+        <pin num="23" name="IO21" type="bidirectional"/>
+        <pin num="24" name="IO47" type="bidirectional"/>
+        <pin num="25" name="IO48" type="bidirectional"/>
+        <pin num="26" name="IO45" type="bidirectional"/>
+        <pin num="27" name="IO0" type="bidirectional"/>
+        <pin num="28" name="IO35" type="bidirectional"/>
+        <pin num="29" name="IO36" type="bidirectional"/>
+        <pin num="30" name="IO37" type="bidirectional"/>
+        <pin num="31" name="IO38" type="bidirectional"/>
+        <pin num="32" name="IO39" type="bidirectional"/>
+        <pin num="33" name="IO40" type="bidirectional"/>
+        <pin num="34" name="IO41" type="bidirectional"/>
+        <pin num="35" name="IO42" type="bidirectional"/>
+        <pin num="36" name="RXD0" type="bidirectional"/>
+        <pin num="37" name="TXD0" type="bidirectional"/>
+        <pin num="38" name="IO2" type="bidirectional"/>
+        <pin num="39" name="IO1" type="bidirectional"/>
+        <pin num="40" name="GND" type="power_in"/>
+        <pin num="41_1" name="GND" type="power_in"/>
+        <pin num="41_2" name="GND" type="power_in"/>
+        <pin num="41_3" name="GND" type="power_in"/>
+        <pin num="41_4" name="GND" type="power_in"/>
+        <pin num="41_5" name="GND" type="power_in"/>
+        <pin num="41_6" name="GND" type="power_in"/>
+        <pin num="41_7" name="GND" type="power_in"/>
+        <pin num="41_8" name="GND" type="power_in"/>
+        <pin num="41_9" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="G5LE-14_DC3">
+      <docs>G5LE-14 DC3</docs>
+      <footprints>
+        <fp>RELAY_G5LE-1</fp>
+        <fp>DC5_OMR</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">G5LE-14 DC3</field>
+        <field name="Footprint">RELAY_G5LE-1 DC5_OMR</field>
+        <field name="Datasheet">G5LE-14 DC3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="L8050QLT1G">
+      <docs>KSC3265YMTF</docs>
+      <footprints>
+        <fp>SOT-23_ONS</fp>
+        <fp>SOT-23_ONS-M</fp>
+        <fp>SOT-23_ONS-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L8050QLT1G</field>
+        <field name="Footprint">SOT-23_ONS</field>
+        <field name="Datasheet">KSC3265YMTF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BASE" type="unspecified"/>
+        <pin num="2" name="EMITTER" type="unspecified"/>
+        <pin num="3" name="COLLECTOR" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="LDL1117S33R-SnapEDA">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LDL1117S33R-SnapEDA</field>
+        <field name="Footprint">LDL1117S33R:SOT230P700X180-4N</field>
+        <field name="DigiKey_Part_Number">497-17239-2-ND</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.8 mm</field>
+        <field name="Package">SOT-223 STMicroelectronics</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="PARTREV">7</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LDL1117S33R/STMicroelectronics/view-part/?ref=snap</field>
+        <field name="MP">LDL1117S33R</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=865632&amp;manufacturer=STMicroelectronics&amp;part_name=LDL1117S33R&amp;search_term=ldl1117s33r</field>
+        <field name="Description">
+Linear Voltage Regulator IC Positive Fixed 1 Output 1.2A SOT-223
+</field>
+        <field name="SNAPEDA_PN">LDL1117S33R</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VOUT" type="power_in"/>
+        <pin num="3" name="VIN" type="input"/>
+        <pin num="4" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="LDL1117S50R">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LDL1117S50R</field>
+        <field name="Footprint">LDL1117S50R:SOT230P700X180-4N</field>
+        <field name="Manufacturer">STMicroelectronics</field>
+        <field name="Package">SOT230P700X180-4N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VOUT" type="power_out"/>
+        <pin num="3" name="VIN" type="power_in"/>
+        <pin num="4" name="VOUT-1" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="LESD5D5.0CT1G">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LESD5D5.0CT1G</field>
+        <field name="Footprint">LESD5D5.0CT1G:TVS_LESD5D5.0CT1G</field>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">O</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="Description">
+Transient Voltage Suppressors for ESD Protection
+</field>
+        <field name="Availability">Not in stock</field>
+        <field name="MANUFACTURER">LRC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="MMBT2222LT1G">
+      <docs>MMBT2222LT1G</docs>
+      <footprints>
+        <fp>SOT-23-3_1P4X3P040_ONS</fp>
+        <fp>SOT-23-3_1P4X3P040_ONS-M</fp>
+        <fp>SOT-23-3_1P4X3P040_ONS-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MMBT2222LT1G</field>
+        <field name="Footprint">SOT-23-3_1P4X3P040_ONS</field>
+        <field name="Datasheet">MMBT2222LT1G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BASE" type="unspecified"/>
+        <pin num="2" name="EMITTER" type="unspecified"/>
+        <pin num="3" name="COLLECTOR" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="PJ-202AH">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PJ-202AH</field>
+        <field name="Footprint">PJ-202AH:CUI_PJ-202AH</field>
+        <field name="STANDARD">Manufacturer recommendations</field>
+        <field name="PART_REV">1.02</field>
+        <field name="MANUFACTURER">CUI INC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="PTS815_SJG_250_SMTR_LFS">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">PTS815_SJG_250_SMTR_LFS</field>
+        <field name="Footprint">PTS815_SJG_250_SMTR_LFS:PTS815SJG250SMTRLFS</field>
+        <field name="MANUFACTURER_NAME">C &amp; K COMPONENTS</field>
+        <field name="MF">C&amp;K</field>
+        <field name="MOUSER_PRICE-STOCK">https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJG-250-SMTR-LFS?qs=ahcBuItHZ3yjoEmU1Oppnw%3D%3D</field>
+        <field name="DESCRIPTION">Tactile Switches Tact Switch, 12 VDC, 50 mA, 4.2x3.2, 2.5mm H, 400gf, J leads</field>
+        <field name="MOUSER_PART_NUMBER">611-PTS815SJG250SMTR</field>
+        <field name="Price">None</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=eda</field>
+        <field name="HEIGHT">2.7mm</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/PTS815%20SJG%20250%20SMTR%20LFS/C%2526K/view-part/?ref=snap</field>
+        <field name="MP">PTS815 SJG 250 SMTR LFS</field>
+        <field name="Description">
+Switch;Tactile;4.2 x 3.2;2.5MM;400gf;J Leads | C&amp;K PTS815 SJG 250 SMTR LFS
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER_PART_NUMBER">PTS815 SJG 250 SMTR LFS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="bidirectional"/>
+        <pin num="2" name="COM" type="bidirectional"/>
+        <pin num="3" name="NO" type="bidirectional"/>
+        <pin num="4" name="NO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECE445" part="VOM617AT">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">VOM617AT</field>
+        <field name="Footprint">VOM617AT:SOIC254P695X242-4N</field>
+        <field name="MF">Vishay Semiconductor</field>
+        <field name="Description">
+VOM617AT DC Input Phototransistor Output Optocoupler, Surface Mount, 4-Pin SOP | Siliconix / Vishay VOM617AT
+</field>
+        <field name="Package">SOP-4 Vishay Semiconductor</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/VOM617AT/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap</field>
+        <field name="MP">VOM617AT</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=289684&amp;manufacturer=Vishay Semiconductor&amp;part_name=VOM617AT&amp;search_term=sop 4 pin</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">VISHAY</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad 7.0/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad 7.0/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="ECE445">
+      <uri>/Users/zhaoyangxie/Documents/KiCad/7.0/3dmodels/ECE445_v7.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad 7.0/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D11" pin="C" pintype="passive"/>
+      <node ref="D9" pin="C" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="K2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VOUT" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U4" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="7" pinfunction="VREGIN" pintype="input"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U3" pin="4" pinfunction="VOUT-1" pintype="power_in"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VIN" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="4" name="CHIP_PU">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="S2" pin="4" pinfunction="NO" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="5" name="COM_Main">
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K1" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="6" name="COM_Main_DC">
+      <node ref="J7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K2" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="7" name="DTR">
+      <node ref="J25" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="28" pinfunction="DTR" pintype="output"/>
+      <node ref="U6" pin="2" pinfunction="EMITTER" pintype="unspecified"/>
+    </net>
+    <net code="8" name="ESP_3V3">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="9" name="Fan_A">
+      <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="K1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="10" name="Fan_A_DC">
+      <node ref="J7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="K2" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="11" name="Fan_B">
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K1" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="12" name="Fan_B_DC">
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K2" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pintype="passive"/>
+      <node ref="D7" pin="1" pintype="passive"/>
+      <node ref="D8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="J2" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S2" pinfunction="SHIELD__1" pintype="passive"/>
+      <node ref="J2" pin="S3" pinfunction="SHIELD__2" pintype="passive"/>
+      <node ref="J2" pin="S4" pinfunction="SHIELD__3" pintype="passive"/>
+      <node ref="J2" pin="S5" pinfunction="SHIELD__4" pintype="passive"/>
+      <node ref="J2" pin="S6" pinfunction="SHIELD__5" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="S2" pinfunction="SHIELD__1" pintype="passive"/>
+      <node ref="J3" pin="S3" pinfunction="SHIELD__2" pintype="passive"/>
+      <node ref="J3" pin="S4" pinfunction="SHIELD__3" pintype="passive"/>
+      <node ref="J3" pin="S5" pinfunction="SHIELD__4" pintype="passive"/>
+      <node ref="J3" pin="S6" pinfunction="SHIELD__5" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="COM" pintype="bidirectional"/>
+      <node ref="S2" pin="1" pinfunction="COM" pintype="bidirectional"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="40" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="41_9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="2" pinfunction="EMITTER" pintype="unspecified"/>
+      <node ref="U11" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="29" pinfunction="GND__1" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="EMITTER" pintype="unspecified"/>
+      <node ref="U8" pin="2" pintype="passive"/>
+      <node ref="U9" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="IO0">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="S1" pin="4" pinfunction="NO" pintype="bidirectional"/>
+      <node ref="U1" pin="27" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="IO19">
+      <node ref="D4" pin="2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="D-" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="IO20">
+      <node ref="D3" pin="2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="D+" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="IO20" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D6" pin="C" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D5" pin="C" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D10-K)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="A" pintype="passive"/>
+      <node ref="K1" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="U7" pin="3" pinfunction="COLLECTOR" pintype="unspecified"/>
+    </net>
+    <net code="21" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D12-K)">
+      <node ref="D11" pin="A" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K2" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="U10" pin="3" pinfunction="COLLECTOR" pintype="unspecified"/>
+    </net>
+    <net code="23" name="Net-(J4-Pin_2)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J5-Pin_2)">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J9-Pin_1)">
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="VOUT" pintype="power_in"/>
+      <node ref="U11" pin="4" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="26" name="Net-(J10-Pin_1)">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="VOUT" pintype="power_in"/>
+      <node ref="U12" pin="4" pinfunction="VOUT" pintype="power_out"/>
+    </net>
+    <net code="27" name="Net-(J26-Pin_1)">
+      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U12" pin="3" pinfunction="VIN" pintype="input"/>
+      <node ref="U9" pin="3" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J27-Pin_1)">
+      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="VIN" pintype="input"/>
+      <node ref="U8" pin="3" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J28-Pin_1)">
+      <node ref="J28" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U8" pin="4" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J29-Pin_1)">
+      <node ref="J29" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U9" pin="4" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(U1-IO35)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="IO35" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(U1-IO36)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="IO36" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(U4-RXD)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U4" pin="25" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(U4-TXD)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U4" pin="26" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(U4-VBUS)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(U4-~{RST})">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(U4-~{SUSPEND})">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="~{SUSPEND}" pintype="output"/>
+    </net>
+    <net code="38" name="Net-(U5-BASE)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="BASE" pintype="unspecified"/>
+    </net>
+    <net code="39" name="Net-(U5-COLLECTOR)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="COLLECTOR" pintype="unspecified"/>
+    </net>
+    <net code="40" name="Net-(U6-BASE)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="BASE" pintype="unspecified"/>
+    </net>
+    <net code="41" name="Net-(U6-COLLECTOR)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="COLLECTOR" pintype="unspecified"/>
+    </net>
+    <net code="42" name="Net-(U7-BASE)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="BASE" pintype="unspecified"/>
+    </net>
+    <net code="43" name="Net-(U10-BASE)">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="BASE" pintype="unspecified"/>
+    </net>
+    <net code="44" name="RTS">
+      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U4" pin="24" pinfunction="RTS" pintype="output"/>
+      <node ref="U5" pin="2" pinfunction="EMITTER" pintype="unspecified"/>
+    </net>
+    <net code="45" name="Relay_Signal_ACDC">
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="IO11" pintype="bidirectional"/>
+      <node ref="U8" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Relay_Signal_DCDC">
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="IO12" pintype="bidirectional"/>
+      <node ref="U9" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="U0RXD">
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="RXD0" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="U0TXD">
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="TXD0" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="USB_DN">
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="D-" pintype="passive"/>
+      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="USB_DP">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="D+" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="VBUS">
+      <node ref="D5" pin="A" pintype="passive"/>
+      <node ref="D6" pin="A" pintype="passive"/>
+      <node ref="D7" pin="2" pintype="passive"/>
+      <node ref="D8" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="VUSB" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="VUSB" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(J2-ID-Pad4)">
+      <node ref="J2" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(J3-ID-Pad4)">
+      <node ref="J3" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(S1-COM-Pad2)">
+      <node ref="S1" pin="2" pinfunction="COM" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(S1-NO-Pad3)">
+      <node ref="S1" pin="3" pinfunction="NO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(S2-COM-Pad2)">
+      <node ref="S2" pin="2" pinfunction="COM" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(S2-NO-Pad3)">
+      <node ref="S2" pin="3" pinfunction="NO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U1-IO1-Pad39)">
+      <node ref="U1" pin="39" pinfunction="IO1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U1-IO2-Pad38)">
+      <node ref="U1" pin="38" pinfunction="IO2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U1-IO3-Pad15)">
+      <node ref="U1" pin="15" pinfunction="IO3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U1-IO4-Pad4)">
+      <node ref="U1" pin="4" pinfunction="IO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U1-IO5-Pad5)">
+      <node ref="U1" pin="5" pinfunction="IO5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U1-IO6-Pad6)">
+      <node ref="U1" pin="6" pinfunction="IO6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U1-IO7-Pad7)">
+      <node ref="U1" pin="7" pinfunction="IO7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U1-IO8-Pad12)">
+      <node ref="U1" pin="12" pinfunction="IO8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U1-IO9-Pad17)">
+      <node ref="U1" pin="17" pinfunction="IO9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U1-IO10-Pad18)">
+      <node ref="U1" pin="18" pinfunction="IO10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U1-IO13-Pad21)">
+      <node ref="U1" pin="21" pinfunction="IO13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U1-IO14-Pad22)">
+      <node ref="U1" pin="22" pinfunction="IO14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U1-IO15-Pad8)">
+      <node ref="U1" pin="8" pinfunction="IO15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U1-IO16-Pad9)">
+      <node ref="U1" pin="9" pinfunction="IO16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U1-IO17-Pad10)">
+      <node ref="U1" pin="10" pinfunction="IO17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U1-IO18-Pad11)">
+      <node ref="U1" pin="11" pinfunction="IO18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U1-IO21-Pad23)">
+      <node ref="U1" pin="23" pinfunction="IO21" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U1-IO37-Pad30)">
+      <node ref="U1" pin="30" pinfunction="IO37" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U1-IO38-Pad31)">
+      <node ref="U1" pin="31" pinfunction="IO38" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U1-IO39-Pad32)">
+      <node ref="U1" pin="32" pinfunction="IO39" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U1-IO40-Pad33)">
+      <node ref="U1" pin="33" pinfunction="IO40" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U1-IO41-Pad34)">
+      <node ref="U1" pin="34" pinfunction="IO41" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U1-IO42-Pad35)">
+      <node ref="U1" pin="35" pinfunction="IO42" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U1-IO45-Pad26)">
+      <node ref="U1" pin="26" pinfunction="IO45" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U1-IO46-Pad16)">
+      <node ref="U1" pin="16" pinfunction="IO46" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U1-IO47-Pad24)">
+      <node ref="U1" pin="24" pinfunction="IO47" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U1-IO48-Pad25)">
+      <node ref="U1" pin="25" pinfunction="IO48" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U4-CHR0-Pad15)">
+      <node ref="U4" pin="15" pinfunction="CHR0" pintype="output+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U4-CHR1-Pad14)">
+      <node ref="U4" pin="14" pinfunction="CHR1" pintype="output+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U4-CHREN-Pad13)">
+      <node ref="U4" pin="13" pinfunction="CHREN" pintype="output+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U4-CTS-Pad23)">
+      <node ref="U4" pin="23" pinfunction="CTS" pintype="input+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U4-DCD-Pad1)">
+      <node ref="U4" pin="1" pinfunction="DCD" pintype="input+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U4-DSR-Pad27)">
+      <node ref="U4" pin="27" pinfunction="DSR" pintype="input+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U4-GPIO.0{slash}TXT-Pad19)">
+      <node ref="U4" pin="19" pinfunction="GPIO.0/TXT" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U4-GPIO.1{slash}RXT-Pad18)">
+      <node ref="U4" pin="18" pinfunction="GPIO.1/RXT" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U4-GPIO.2{slash}RS485-Pad17)">
+      <node ref="U4" pin="17" pinfunction="GPIO.2/RS485" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U4-GPIO.3{slash}WAKEUP-Pad16)">
+      <node ref="U4" pin="16" pinfunction="GPIO.3/WAKEUP" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U4-GPIO.4-Pad22)">
+      <node ref="U4" pin="22" pinfunction="GPIO.4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U4-GPIO.5-Pad21)">
+      <node ref="U4" pin="21" pinfunction="GPIO.5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U4-GPIO.6-Pad20)">
+      <node ref="U4" pin="20" pinfunction="GPIO.6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U4-NC-Pad10)">
+      <node ref="U4" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U4-RI{slash}CLK-Pad2)">
+      <node ref="U4" pin="2" pinfunction="RI/CLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U4-SUSPEND-Pad12)">
+      <node ref="U4" pin="12" pinfunction="SUSPEND" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
