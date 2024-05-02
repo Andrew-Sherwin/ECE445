@@ -1,7 +1,7 @@
 **Tuesday, February 06, 2024**
 
 ![A notebook with writing on it Description automatically
-generated](media/image1.jpeg){width="6.361111111111111in"
+generated](./myMediaFolder/media/image1.jpeg){width="6.361111111111111in"
 height="8.481481846019248in"}
 
 **Wednesday, February 07, 2024**
@@ -18,14 +18,14 @@ function. Also, it is preferred that it is square, so that it will be
 easier to mount things without leaks.
 
 ![A notebook with writing on it Description automatically
-generated](media/image2.jpeg){width="6.5in"
+generated](./myMediaFolder/media/image2.jpeg){width="6.5in"
 height="8.666666666666666in"}**\
 **
 
 **Thursday, February 08, 2024**
 
 ![A notebook with writing on it Description automatically
-generated](media/image3.jpeg){width="8.36111111111111in"
+generated](./myMediaFolder/media/image3.jpeg){width="8.36111111111111in"
 height="6.270833333333333in"}
 
 **Wednesday, February 14, 2024**
@@ -110,7 +110,7 @@ document. We also made an estimated labor table, as well as the
 estimated parts list as shown below:
 
 ![A screenshot of a spreadsheet Description automatically
-generated](media/image4.png){width="6.5in"
+generated](./myMediaFolder/media/image4.png){width="6.5in"
 height="2.4618055555555554in"}
 
 **Friday, February 23, 2024**
@@ -144,11 +144,20 @@ humidifiers in houses for inspiration. Surya says that we were the first
 team to get full marks on the professionalism category.
 
 ![A chat message with text Description automatically generated with
-medium confidence](media/image5.png){width="6.5in"
+medium confidence](./myMediaFolder/media/image5.png){width="6.5in"
 height="2.013888888888889in"}
 
 We went to a peer review, and they just read off their Google Doc. I am
 glad we make a PowerPoint.
+
+I also made some edits to the block diagram. I updated the signals for
+the DC motor controller, as the ones in the proposal did not make sense.
+I also made the data and power lines more readable with new colors
+added.
+
+![A screenshot of a computer Description automatically
+generated](./myMediaFolder/media/image6.png){width="6.5in"
+height="5.455555555555556in"}
 
 **Sunday, March 03, 2024**
 
@@ -174,7 +183,7 @@ lot of "fluff" on it. I also downloaded a CAD model on Digikey for the
 SHT45 sensor. I will be using the SHT45-AD1B-R3 sensor.
 
 ![A diagram of a device Description automatically
-generated](media/image6.png){width="6.055555555555555in"
+generated](./myMediaFolder/media/image7.png){width="6.055555555555555in"
 height="2.6829199475065617in"}
 
 Aside from the two components mentioned above, we also need the power
@@ -247,6 +256,10 @@ to the other groups.
 Order some parts for PCB, primarily BJT and Diode from China. It will
 take two weeks to arrive, so it will arrive on time after Spring Break.
 
+![A blueprint of a circuit board Description automatically
+generated](./myMediaFolder/media/image8.png){width="6.5in"
+height="7.838888888888889in"}
+
 **Monday, March 18, 2024**
 
 **Objective: Work on Humidifier PCB, talk to Jalen**
@@ -276,7 +289,7 @@ stock of over 6000 on Digikey, so it must be decent. I suggested it to
 Jalen. He thinks we should try it out.
 
 ![A diagram of a circuit Description automatically
-generated](media/image7.png){width="5.152777777777778in"
+generated](./myMediaFolder/media/image9.png){width="5.152777777777778in"
 height="2.75in"}
 
 After more discussion, it seems like Jalen's initial understanding of
@@ -290,11 +303,15 @@ the EPS-15-12 120V AC to 12V DC transformer. I will also connect the DC
 end to a barrel jack for the PCB.
 
 ![A table with numbers and symbols Description automatically
-generated](media/image8.png){width="6.5in"
+generated](./myMediaFolder/media/image10.png){width="6.5in"
 height="2.2006944444444443in"}
 
 Order some more parts from Digikey for the humidifier PCB. Total was
 around \$67.00.
+
+![A computer screen shot of a circuit board Description automatically
+generated](./myMediaFolder/media/image11.png){width="6.5in"
+height="4.634722222222222in"}
 
 **Tuesday, March 19, 2024**
 
@@ -327,6 +344,26 @@ will do it this week. He says that the machine shop should be working on
 our parts now. However, he is still happy that we are making good
 progress compared to the other teams.
 
+I told Jalen to help create a spreadsheet of the parts that we have
+ordered and the parts that we need to still order. The spreadsheet
+should have a total of parts needed for each PCB. Also, the list should
+have vendor links of where the parts are from.
+
+![A screenshot of a spreadsheet Description automatically
+generated](./myMediaFolder/media/image12.png){width="6.416666666666667in"
+height="4.375in"}
+
+I updated the block diagram once more. This time, the block diagram has
+electrical relays instead of the motor controller. This is because I
+think the design will be more modular. When changing this, I also
+updated the GPIO lines. The idea behind the relays is when the switch is
+activated, the circuit for the water valve and the humidifier will be
+complete. As a result, they turn on.
+
+![A screenshot of a computer Description automatically
+generated](./myMediaFolder/media/image13.png){width="6.5in"
+height="5.469444444444444in"}
+
 **Thursday, March 21, 2024**
 
 **Objective: Talk to machine shop**
@@ -335,16 +372,29 @@ Today, I brought the humidifier and PCB parts to the machine shop. I
 also drew some diagrams to show the machine shop what needs to be done.
 
 ![A white paper with blue writing on it Description automatically
-generated](media/image9.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image14.jpeg){width="6.5in"
+height="4.875in"}
 
 ![A white paper with blue writing on it Description automatically
-generated](media/image10.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image15.jpeg){width="6.5in"
+height="4.875in"}
 
 I think that Gregg understands the idea. However, because we are still
 waiting for parts, he cannot begin working on it yet. Gregg requested
 that I give him a sample of our PCB and the water valve. He says he will
 be on vacation for a week starting the coming Monday. I told him I will
 get it to him tomorrow, as the valve is arriving tomorrow.
+
+Jalen and I continued to work on the parts list. Below is the updated
+list. It consists of parts for the sensor and the humidifier subsystem:
+
+![A screenshot of a computer Description automatically
+generated](./myMediaFolder/media/image16.png){width="6.5in"
+height="2.515972222222222in"}
+
+![A screenshot of a computer Description automatically
+generated](./myMediaFolder/media/image17.png){width="6.5in"
+height="3.154861111111111in"}
 
 **Friday, March 22, 2024**
 
@@ -382,7 +432,7 @@ the hole, I did not see the valve opening. As a result, I took it apart
 and found the below:
 
 ![A small white and blue device Description automatically
-generated](media/image11.jpeg){width="5.536082677165354in"
+generated](./myMediaFolder/media/image18.jpeg){width="5.536082677165354in"
 height="7.381443569553806in"}
 
 As seen in the picture, this is not really a valve, but a plunger. It
@@ -428,7 +478,7 @@ the diagram below, I will also need to buy some plugs for the input and
 output.
 
 ![A diagram of a circuit board Description automatically
-generated](media/image12.png){width="6.5in"
+generated](./myMediaFolder/media/image19.png){width="6.5in"
 height="4.848611111111111in"}
 
 I was able to find some suggested ones on Digikey with a crimp
@@ -467,7 +517,8 @@ We will need to talk to them soon. The development board for the PCB
 seems pretty compact, so our PCB will also be compact.
 
 ![A small black electronic device on a silver surface Description
-automatically generated](media/image13.jpeg){width="5.273611111111111in"
+automatically
+generated](./myMediaFolder/media/image20.jpeg){width="5.273611111111111in"
 height="7.031481846019248in"}
 
 **\
@@ -490,8 +541,21 @@ heat up. Maybe the iron was not powerful enough. We will finish
 soldering in another day when the parts arrive.
 
 ![A person looking through a microscope Description automatically
-generated](media/image14.jpeg){width="4.714285870516186in"
+generated](./myMediaFolder/media/image21.jpeg){width="4.714285870516186in"
 height="6.285714129483814in"}
+
+**Monday, April 1, 2024**
+
+Jalen and I update the parts list one more time. This time, we color
+coded where parts are from and did final adjustments to the quantity.
+
+![A screenshot of a computer Description automatically
+generated](./myMediaFolder/media/image22.png){width="6.5in"
+height="1.85625in"}
+
+![A screenshot of a computer Description automatically
+generated](./myMediaFolder/media/image23.png){width="6.5in"
+height="2.5375in"}
 
 **Tuesday, April 2, 2024**
 
@@ -530,7 +594,7 @@ It was 3-4am, so we decided to go home and solve it the next day.
 
 ![A person sitting in a chair in a room with a desk and a robot
 Description automatically
-generated](media/image15.jpeg){width="5.913580489938758in"
+generated](./myMediaFolder/media/image24.jpeg){width="5.913580489938758in"
 height="7.884771434820648in"}
 
 **\
@@ -544,7 +608,7 @@ I started a Reddit post on r/ESP32 to ask why I was experiencing this
 problem.
 
 ![A screenshot of a computer Description automatically
-generated](media/image16.png){width="6.5in"
+generated](./myMediaFolder/media/image25.png){width="6.5in"
 height="4.189583333333333in"}
 
 I did some research on why this might be. There are similar symptoms
@@ -554,7 +618,8 @@ the voltage regulator is high. Maybe with a better power supply, the
 ESP32 will not "throttle".
 
 ![A white electronic device with a screen and buttons Description
-automatically generated](media/image17.jpeg){width="6.5in"
+automatically
+generated](./myMediaFolder/media/image26.jpeg){width="6.5in"
 height="4.875in"}
 
 A Reddit user suggested using the power supply from the lab bench and
@@ -575,7 +640,8 @@ decreases in voltage. This will decrease the voltage drop and balance
 out the power draw through each regulator.
 
 ![A person standing next to a whiteboard Description automatically
-generated](media/image18.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image27.jpeg){width="6.5in"
+height="4.875in"}
 
 Ultimately, I decided to use a 5V wall plug the power the sensor
 subsystem, and a RS-15-5 AC/DC converter to power the humidifier
@@ -592,7 +658,7 @@ In ECE343's lab, I drew this diagram detailing the idea behind the
 humidifier subsystem.
 
 ![A screenshot of a computer Description automatically
-generated](media/image19.jpeg){width="6.5in"
+generated](./myMediaFolder/media/image28.jpeg){width="6.5in"
 height="4.508333333333334in"}
 
 The diagram above shows the inputs and how the different components will
@@ -612,7 +678,8 @@ I finished the PCB early Friday morning. I just soldered one relay and
 one water level sensor input.
 
 ![A green circuit board on a black surface Description automatically
-generated](media/image20.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image29.jpeg){width="6.5in"
+height="4.875in"}
 
 When I programmed it, the PCB works with Wi-Fi with a 5V input. However,
 GPIO 19 and 20 were not outputting signals to the relays. I think that
@@ -646,6 +713,10 @@ board is a re-routing of the traces in the third board. The fifth board
 contains cutouts for the high voltage. I spent the whole night doing
 this and finished early in the morning.
 
+![A computer screen shot of a circuit board Description automatically
+generated](./myMediaFolder/media/image30.png){width="6.5in"
+height="4.577083333333333in"}
+
 **Monday, April 8, 2024**
 
 **Objective: Talk to machine shop about our project**
@@ -670,7 +741,7 @@ to solder the remaining two sensor subsystem boards. I taught Woojin how
 to place the components and paste the board with the stencil.
 
 ![A person looking through a microscope Description automatically
-generated](media/image21.jpeg){width="3.4175251531058617in"
+generated](./myMediaFolder/media/image31.jpeg){width="3.4175251531058617in"
 height="4.556700568678915in"}
 
 I did the ESP32 chip, as Woojin does not have experience to do it, and I
@@ -678,7 +749,8 @@ don't want him to mess up. We finished early Thursday morning. We tested
 the boards with the programs, and they all work on the first try.
 
 ![A group of green electronic components on a black surface Description
-automatically generated](media/image22.jpeg){width="6.5in"
+automatically
+generated](./myMediaFolder/media/image32.jpeg){width="6.5in"
 height="4.875in"}
 
 **Thursday April 11, 2024**
@@ -702,7 +774,8 @@ After the verification with the multimeter, I was comfortable to solder
 the ESP32 on.
 
 ![A green circuit board with black wires Description automatically
-generated](media/image23.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image33.jpeg){width="6.5in"
+height="4.875in"}
 
 Upon testing the board, I can see that it is fully working. I realized
 that the first time that I did it, the board fully works. Maybe it was
@@ -736,10 +809,20 @@ at 8:00am. I promised him that I will do it.
 
 With the box, Jalen and I mock-placed the components. ![A close-up of a
 device Description automatically
-generated](media/image24.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image34.jpeg){width="6.5in"
+height="4.875in"}
 
 We also tested the functionality of the transformers. We determined that
 the 5V transformer was not working, as the adjuster only output 4.2V.
+
+I updated the block diagram again. This time, I am reflecting the
+switching regulated supply. There will be two switching regulated
+supply. The first one will take in 120V and output 5V, while the other
+takes in 120V and outputs 12V.
+
+![A screenshot of a computer Description automatically
+generated](./myMediaFolder/media/image35.png){width="6.5in"
+height="5.486111111111111in"}
 
 **\
 **
@@ -752,7 +835,7 @@ Today, I finished up soldering the rest of the humidifier subsystem's
 PCB. I added the remaining relay and the water level sensor input. This
 was because we have a mock demo on Tuesday. ![A hand holding a green
 circuit board Description automatically
-generated](media/image25.jpeg){width="5.304124015748031in"
+generated](./myMediaFolder/media/image36.jpeg){width="5.304124015748031in"
 height="7.072165354330709in"}
 
 Tonight, Woojin got the HTML webpage up. Our data can be read on the
@@ -785,7 +868,8 @@ the humidifier in. Using Woojin's webpage, the fan was able to be turned
 on and off. I was happy with this result.
 
 ![A computer and a phone on a desk Description automatically
-generated](media/image26.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image37.jpeg){width="6.5in"
+height="4.875in"}
 
 In the afternoon, I spent my time wiring the water level sensors and the
 wires for the water valve. I bought the parts from the ECE supply store.
@@ -794,7 +878,8 @@ presentation with Surya. Surya told us to clean up the wiring. I will
 heat shrink the wiring some more.
 
 ![A machine with wires connected to it Description automatically
-generated](media/image27.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image38.jpeg){width="6.5in"
+height="4.875in"}
 
 **Wednesday, April 17, 2024**
 
@@ -808,7 +893,7 @@ some marine grade waterproof heat shrink from Amazon. The order will
 arrive Friday.
 
 ![A hand holding a black wire Description automatically
-generated](media/image28.jpeg){width="6.5in"
+generated](./myMediaFolder/media/image39.jpeg){width="6.5in"
 height="8.666666666666666in"}
 
 **Friday, April 19, 2024 and Saturday, April 20, 2024**
@@ -835,13 +920,14 @@ soldered the wires. I stripped it 2 inches so that the contact surface
 will be maximized.
 
 ![Close-up of several wires Description automatically
-generated](media/image29.jpeg){width="5.511482939632546in"
+generated](./myMediaFolder/media/image40.jpeg){width="5.511482939632546in"
 height="4.133612204724409in"}
 
 After soldering, I did continuity testing to make sure the connections
 were good before heat shrinking the connections. ![A black and blue
 device with wires Description automatically
-generated](media/image30.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image41.jpeg){width="6.5in"
+height="4.875in"}
 
 The result was very clean. For the water valve wires, I need to go to
 the supply store to get two new female connectors, as the original was
@@ -866,22 +952,23 @@ data that we collected for the voltage input over 1 hour:
 
 ![A graph of a graph of a graph of a graph of a graph of a graph of a
 graph of a graph of a graph of a graph of a graph of a graph of a graph
-of Description automatically generated](media/image31.png){width="6.5in"
+of Description automatically
+generated](./myMediaFolder/media/image42.png){width="6.5in"
 height="2.2098764216972877in"}![A graph of a graph of a graph of a graph
 of a graph of a graph of a graph of a graph of a graph of a graph of a
 graph of a graph of a graph of Description automatically
-generated](media/image32.png){width="6.5in"
+generated](./myMediaFolder/media/image43.png){width="6.5in"
 height="2.0740737095363078in"}
 
 ![A table of numbers with numbers Description automatically
-generated](media/image33.png){width="6.5in"
+generated](./myMediaFolder/media/image44.png){width="6.5in"
 height="5.999305555555556in"}
 
 We were also able to confirm that our three sensor readings matched that
 of the commercial humidity and temperature sensor from Amazon.
 
 ![A hand holding a phone over a digital device Description automatically
-generated](media/image34.jpeg){width="5.19807852143482in"
+generated](./myMediaFolder/media/image45.jpeg){width="5.19807852143482in"
 height="3.5688538932633422in"}
 
 Woojin did the runtime test, and the runtime was 90,000ns for a two way
@@ -930,11 +1017,17 @@ unplugged one sensor, and the average was recomputed with just two
 sensors. Surya said in text that we earned 10 points for complexity!
 
 ![A screenshot of a chat Description automatically
-generated](media/image35.png){width="4.525773184601925in"
+generated](./myMediaFolder/media/image46.png){width="4.525773184601925in"
 height="3.2439523184601926in"}
 
 ![A group of men standing in a room Description automatically
-generated](media/image36.jpeg){width="6.5in" height="4.875in"}
+generated](./myMediaFolder/media/image47.jpeg){width="6.5in"
+height="4.875in"}
+
+**Friday, April 26, 2024**
+
+Today Jalen and I filmed the extra credit video together. The reason why
+Woojin could not attend was because he had badminton.
 
 **Saturday, April 27, 2024**
 
@@ -972,7 +1065,7 @@ had to be updated, as we are now using relays and 5V as input to the
 PCB, for example. We updated our labor table, as seen below:
 
 ![A table with numbers and a group of men Description automatically
-generated](media/image37.png){width="6.5in"
+generated](./myMediaFolder/media/image48.png){width="6.5in"
 height="3.026388888888889in"}
 
 We estimated that there are 24 hours of work done by the machine shop.
@@ -1019,7 +1112,7 @@ agrees since he did not want to cause trouble, and I updated it to the
 table below:
 
 ![A black line with black text Description automatically
-generated](media/image38.png){width="6.5in"
+generated](./myMediaFolder/media/image49.png){width="6.5in"
 height="1.0138888888888888in"}
 
 I kept it at 155 hours for Woojin as I feel like it honors his work.
@@ -1032,5 +1125,178 @@ server. I said I will not do that, as it is already confidential. He
 tried calling me, but I ignored his call.
 
 ![A screenshot of a chat Description automatically
-generated](media/image39.png){width="5.148148512685914in"
+generated](./myMediaFolder/media/image50.png){width="5.148148512685914in"
 height="4.598133202099738in"}
+
+I suggested we do a group call at 22:00 so that he can beat around the
+bush and tell us what he really wants.
+
+During the call, I suggested that we make a compromise where Jalen and I
+keep our breakdown of hours, but Woojin will have his blanked out. He
+also stated that he though 155 hours is too much and should decrease his
+software engineering hours to 40 hours. This will make his new total 117
+hours. Jalen and I agreed to this. Also, we removed the original
+document from the ECE445 page as requested by Woojin. I think Woojin
+does not want the public to know what parts he worked on specifically.
+Below is the final table:
+
+![A table with numbers and letters Description automatically
+generated](./myMediaFolder/media/image51.png){width="6.444444444444445in"
+height="3.115054680664917in"}
+
+To upload this Word document to GitHub, I had to find a way to convert
+the text to MarkDown, which is GitHub's text file format. I found Pandoc
+that can do it for you. By using the command:
+
+"pandoc \--extract-media ./myMediaFolder input.docx -o output.md"
+
+I can export the text and media and push it to GitHub.
+
+**References**
+
+1.  F. Hecht, "Wifi Propagation," *freedom*, 2017.
+    https://doc.freefem.org/tutorials/wifiPropagation.html (accessed
+    Mar. 29, 2024).
+
+2.  M. Marwell, "Issues with the I^2^C (Inter-IC) Bus and How to Solve
+    Them," *DigiKey*, Aug. 09, 2018. Accessed: Mar. 29, 2024.
+    \[Online\]. Available:
+    https://www.digikey.com/en/articles/issues-with-the-i2c-bus-and-how-to-solve-them
+
+3.  MetaGeek, "Wi-Fi and Non Wi-Fi Interference," *MetaGeek*, 2024.
+    https://www.metageek.com/training/resources/wifi-and-non-wifi-interference/
+    (accessed Mar. 29, 2024).
+
+4.  A. V. Arundel, E. M. Sterling, J. H. Biggin, and T. D. Sterling,
+    "Indirect health effects of relative humidity in indoor
+    environments.," *Environmental Health Perspectives*, vol. 65, no.
+    65, pp. 351--361, Mar. 1986, doi: 10.1289/ehp.8665351.
+
+5.  V. Perrone *et al.*, "The Epidemiology, Treatment Patterns and
+    Economic Burden of Different Phenotypes of Multiple Sclerosis in
+    Italy: Relapsing-Remitting Multiple Sclerosis and Secondary
+    Progressive Multiple Sclerosis," *Clinical Epidemiology*, vol.
+    Volume 14, no. 14, pp. 1327--1337, Nov. 2022, doi:
+    10.2147/clep.s376005.
+
+6.  IEEE, "IEEE Code of Ethics," *IEEE Code of Ethics*, 2020.
+    https://www.ieee.org/about/corporate/governance/p7-8.html (accessed
+    Mar. 29, 2024).
+
+7.  University of Illinois, "Salary Averages," *UIUC*, 2022.
+    https://ece.illinois.edu/admissions/why-ece/salary-averages
+    (accessed Mar. 29, 2024).
+
+8.  Environmental Protection Agency, "Care for your air: A guide to
+    indoor air quality," *US EPA*, Aug. 07, 2023.
+    https://www.epa.gov/indoor-air-quality-iaq/care-your-air-guide-indoor-air-quality
+    (accessed Mar. 25, 2024).
+
+9.  Sensirion, "Datasheet -SHT4x," *Sensirion*, Aug. 2023.
+    https://sensirion.com/media/documents/33FD6951/6555C40E/Sensirion_Datasheet_SHT4x.pdf
+
+10. A. Sherwin, *ECE445 Team 11 - Sensor Subsystem Schematic*. 2024.
+
+11. A. Sherwin, *ECE445 Team 11 - Humidifier Subsystem Schematic*. 2024.
+
+12. Espressif, "ESP32-S3-WROOM-1 ESP32-S3-WROOM-1U
+    Datasheet," *Espressif*, 2023.
+    https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+
+13. IEEE, "IEEE Code of Ethics," *IEEE Code of Ethics*, Jun. 2020.
+    https://www.ieee.org/about/corporate/governance/p7-8.html (accessed
+    Mar. 26, 2024).
+
+14. Espressif, "sch_esp32-s3-devkitc-1_v1_20210," *Espressif*, Apr.
+    13, 2022.
+    https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DevKitC-1_V1.1_20220413.pdf
+    (accessed Mar. 26, 2024).
+
+15. A. Sherwin, *Sensor Subsystem Block Diagram (Close-Up)*. 2024.
+
+16. A. Sherwin, Humidity Subsystem Block Diagram (Close-Up). 2024.
+
+17. D. Workshop, "ESP NOW - Peer to Peer ESP32 Communications," DroneBot
+    Workshop, Apr. 03, 2022. https://dronebotworkshop.com/esp-now/
+
+18. K. Rembor, "Adafruit Sensirion SHT40, SHT41 & SHT45 Temperature &
+    Humidity Sensors," Adafruit Learning System, Feb. 04, 2021.
+    https://learn.adafruit.com/adafruit-sht40-temperature-humidity-sensor/arduino
+
+19. cplusplus, "std::chrono::high_resolution_clock::now," cplusplus.
+    https://cplusplus.com/reference/chrono/high_resolution_clock/now/
+    (accessed Apr. 20, 2024).
+
+20. cplusplus, "std::chrono::nanoseconds," cplusplus.
+    https://cplusplus.com/reference/chrono/nanoseconds/ (accessed Apr.
+    20, 2024).
+
+21. me-no-dev, "ESPAsyncWebServer/README.md at master ·
+    me-no-dev/ESPAsyncWebServer," GitHub.
+    https://github.com/me-no-dev/ESPAsyncWebServer/blob/master/README.md
+
+22. Tea, "ESP32 Web Server periodic updating problem," Stack Overflow.
+    https://stackoverflow.com/questions/64610221/esp32-web-server-periodic-updating-problem
+
+23. antepher, "ESP32 Arduino: HTTP server over soft AP," techtutorialsx,
+    Jan. 07, 2018.
+    https://techtutorialsx.com/2018/01/07/esp32-arduino-http-server-over-soft-ap/
+
+24. ESPRESSIF, "ESP-NOW - ESP32 - --- ESP-IDF Programming Guide v5.2.1
+    documentation," espressif.com.
+    https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_now.html
+
+25. Center for Drug Evaluation and Research, "Use Caution When Giving
+    Cough and Cold Products to Kids," *U.S. Food and Drug
+    Administration*, 2018.
+    <https://www.fda.gov/drugs/special-features/use-caution-when-giving-cough-and-cold-products-kids>
+    (accessed May 01, 2024).
+
+26. A. Sherwin, Consumer Visual Aid. 2024.
+
+27. A. Sherwin, Component Visual Aid. 2024.
+
+28. A. Sherwin, Overall Block Diagram. 2024.
+
+29. A. Sherwin, Humidity Subsystem PCB. 2024.
+
+30. A. Sherwin, Webserver Webpage. 2024.
+
+31. A. Sherwin, Sensor Subsystem PCB. 2024.
+
+32. A. Sherwin, RV Table A-1. 2024.
+
+33. A. Sherwin, RV Table A-2. 2024.
+
+34. A. Sherwin, RV Table A-3. 2024.
+
+35. A. Sherwin, RV Table A-4. 2024.
+
+36. A. Sherwin, RV Table A-5. 2024.
+
+37. A. Sherwin, RV Table A-6. 2024.
+
+38. A. Sherwin, RV Table A-7. 2024.
+
+39. A. Sherwin, RV Table A-8. 2024.
+
+40. A. Sherwin, RV Table A-9. 2024.
+
+41. A. Sherwin, RV Table A-10. 2024.
+
+42. A. Sherwin, RV Table A-11. 2024.
+
+43. A. Sherwin, RV Table A-12. 2024.
+
+44. A. Sherwin, Sensor Subsystem Parts. 2024.
+
+45. A. Sherwin, Humidifier Subsystem Parts. 2024.
+
+46. A. Sherwin, Estimated Development Hours. 2024.
+
+47. A. Sherwin, Total Cost. 2024.
+
+48. Engineering IT Shared Services, "Lab :: ECE 445," *Senior Design
+    Laboratory*, 2020.
+    https://courses.engr.illinois.edu/ece445/lab/index.asp (accessed May
+    01, 2024).
